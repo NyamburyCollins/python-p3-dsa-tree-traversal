@@ -1,3 +1,6 @@
+# test_tree.py
+from tree import Tree
+
 def test_get_element_by_id():
     tree = Tree({
         'tag_name': 'body',
